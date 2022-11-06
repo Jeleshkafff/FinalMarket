@@ -1,0 +1,59 @@
+.like {
+  border-radius: 0px;
+  width: 40px;
+  height: 40px;
+  border: 0px;
+  background-image: url("../../../../public/like_no.png");
+  background-repeat: round;
+  background-color: rgba(240, 248, 255, 0);
+}
+.active {
+  background-image: url("../../../../public/like_yes.png");
+}
+.like:active {
+  border-radius: 0px;
+  width: 40px;
+  height: 40px;
+  border: 0px;
+  background-image: url("../../../../public/like_yes.png");
+  background-repeat: round;
+  background-color: rgba(240, 248, 255, 0);
+}
+.dislike {
+  border-radius: 0px;
+  width: 40px;
+  height: 40px;
+  border: 0px;
+  background-image: url("../../../../public/dislike_no.png");
+  background-repeat: round;
+  background-color: rgba(240, 248, 255, 0);
+}
+.dislike:active {
+  border-radius: 0px;
+  width: 40px;
+  height: 40px;
+  border: 0px;
+  background-image: url("../../../../public/dislike_yes.png");
+  background-repeat: round;
+  background-color: rgba(240, 248, 255, 0);
+}
+.ul {
+  list-style-type: none;
+  color: rgb(211, 184, 255);
+}
+.li {
+  /* padding-left: 50px; */
+  /* margin-right: 600px; */
+  border: 2px solid rgb(8, 0, 82);
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px rgba(22, 0, 71, 0.315);
+  /* margin-left: 40%; */
+}
+.aa {
+  background-color: rgba(0, 0, 0, 0.219);
+  margin-bottom: 10px;
+  margin-right: 90px;
+  padding-left: 10px;
+  padding-top: 5px;
+  border-radius: 20px;
+}

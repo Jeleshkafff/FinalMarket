@@ -1,0 +1,14 @@
+.activClassName {
+  color: rgb(15, 3, 3);
+  padding: 10px;
+}
+.item {
+  color: white;
+  padding: 10px;
+}
+.linki {
+  padding-top: 20px;
+  display: table-cell;
+  width: 5%;
+  text-align: center;
+}
